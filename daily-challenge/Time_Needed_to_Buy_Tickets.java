@@ -31,7 +31,7 @@ public class Time_Needed_to_Buy_Tickets {
     public static void main(String[] args) {
         int[] arr = { 5, 1, 1, 1 };
         int k = 0;
-
+        System.out.println("Hello World");
         System.out.println(timeRequiredToBuy(arr, k));
     }
 }
