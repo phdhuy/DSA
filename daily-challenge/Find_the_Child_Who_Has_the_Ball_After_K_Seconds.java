@@ -13,7 +13,7 @@ public class Find_the_Child_Who_Has_the_Ball_After_K_Seconds {
 
         return position;
     }
-    
+
     public static void main(String[] args) {
         int n = 5;
         int k = 7;
