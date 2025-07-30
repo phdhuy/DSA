@@ -13,7 +13,6 @@ public class Find_the_Winner_of_the_Circular_Game {
             currentIndex = (currentIndex + k - 1) % friends.size();
             friends.remove(currentIndex);
         }
-
         return friends.get(0);
     }
 
